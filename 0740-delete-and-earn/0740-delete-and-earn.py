@@ -1,23 +1,21 @@
-
 class Solution:
     def deleteAndEarn(self, nums: List[int]) -> int:
-        freq = Counter(nums)
-        nums = list(freq.items())
-        nums.sort()
-        N = len(nums)
-        
+        points = defaultdict(int)
+        max_number = 0
+        # Precompute how many points we gain from taking an element
+        for num in nums:
+            points[num] += num
+            max_number = max(max_number, num)
+
         @cache
-        def go(index: int):
-            if index >= N:
+        def max_points(num):
+            # Check for base cases
+            if num == 0:
                 return 0
-            # Take the current number
-            score = nums[index][0] * nums[index][1]
-            if index + 1 < N and nums[index + 1][0] != nums[index][0] + 1:
-                op1 = score + go(index + 1)
-            else:
-                op1 = score + go(index + 2)
-            # Skip the current number
-            op2 = go(index + 1)
-            return max(op1, op2)
+            if num == 1:
+                return points[1]
+            
+            # Apply recurrence relation
+            return max(max_points(num - 1), max_points(num - 2) + points[num])
         
-        return go(0)
+        return max_points(max_number)
