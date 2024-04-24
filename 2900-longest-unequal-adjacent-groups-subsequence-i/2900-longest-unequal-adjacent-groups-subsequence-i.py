@@ -4,7 +4,6 @@ class Solution:
         N= len(words)
         for idx, letter in enumerate(words):
             mappings[groups[idx]].append(idx)
-        print(mappings)
         idx = 0
         path = []
         current = 0
