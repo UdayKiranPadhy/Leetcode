@@ -1,6 +1,6 @@
 class Solution(object):
     def findSecretWord(self, wordlist, master):
-		
+		# https://leetcode.com/problems/guess-the-word/solutions/160945/python-o-n-with-maximum-overlap-heuristic/
         def pair_matches(a, b):         # count the number of matching characters
             return sum(c1 == c2 for c1, c2 in zip(a, b))
 
