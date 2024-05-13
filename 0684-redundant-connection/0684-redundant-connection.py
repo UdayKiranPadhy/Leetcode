@@ -24,7 +24,9 @@ class Solution:
         result = None
         dsu = DisJointsetUnion(len(edges))
         for u , v in edges:
+
             u , v = u -1 , v - 1
+            
             if dsu.find(u) == dsu.find(v):
                 result = [u+1,v+1]
             else:
