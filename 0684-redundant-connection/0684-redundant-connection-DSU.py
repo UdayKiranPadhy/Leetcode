@@ -13,10 +13,11 @@ class DisJointsetUnion:
     def union(self,u,v):
         a , b = self.find(u) , self.find(v)
         if a == b:
-            return
+            return False
         if b > a:
             a , b = b ,a
         self.parent[b] = a
+        return True
 
 
 class Solution:
@@ -25,8 +26,7 @@ class Solution:
         dsu = DisJointsetUnion(len(edges))
         for u , v in edges:
             u , v = u -1 , v - 1
-            if dsu.find(u) == dsu.find(v):
+            if not dsu.union(u,v):
                 result = [u+1,v+1]
-            else:
-                dsu.union(u,v)
+                
         return result
