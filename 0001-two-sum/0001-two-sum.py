@@ -1,6 +1,8 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         freq = defaultdict(list)
+
+        
         for ind, value in enumerate(nums):
             freq[value].append(ind)
         
