@@ -1,4 +1,3 @@
 class Solution:
-    def heightChecker(self, heights: List[int]) -> int:
-        expected = sorted(heights)
-        return len([x for x,y in zip(expected,heights) if x!=y])
+    def heightChecker(self, H):
+        return sum(x != y for x, y in zip(H, sorted(H)))
