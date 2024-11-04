@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/string-compression-iii/">3163. String Compression III</a></h2><h3>Medium</h3><hr><p>Given a string <code>word</code>, compress it using the following algorithm:</p>
+<h2><a href="https://leetcode.com/problems/string-compression-iii/?envType=daily-question&envId=2024-11-04">3163. String Compression III</a></h2><h3>Medium</h3><hr><p>Given a string <code>word</code>, compress it using the following algorithm:</p>
 
 <ul>
 	<li>Begin with an empty string <code>comp</code>. While <code>word</code> is <strong>not</strong> empty, use the following operation:
@@ -11,8 +11,6 @@
 </ul>
 
 <p>Return the string <code>comp</code>.</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
