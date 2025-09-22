@@ -1,21 +1,19 @@
 class Solution:
     def shiftingLetters(self, s: str, shifts: List[List[int]]) -> str:
         N = len(s)
-        heights = [0] * (N + 1)
-
-        for start , end , direction in shifts:
-            if direction:
-                heights[start] += 1
-                heights[end + 1] -= 1
+        result = [0] * (N+1)
+        for start , end , di in shifts:
+            if di == 1:
+                result[start] += 1
+                result[end+1] -= 1
             else:
-                heights[start] -= 1
-                heights[end + 1] += 1
-        
-        heights = list(accumulate(heights))
+                result[start] -= 1
+                result[end+1] += 1
 
-        alpha = "abcdefghijklmnopqrstuvwxyz"
-
-        res = ""
-        for idx , char in enumerate(s):
-            res += alpha[(alpha.index(char) + heights[idx] ) % 26]
-        return res
+        currentShift = 0
+        shiftList = list(s)
+        for i in range(N):
+            currentShift += result[i]
+            netShift = (currentShift % 26 + 26) % 26
+            shiftList[i] = chr((ord(shiftList[i]) - ord('a') + netShift) % 26 + ord('a'))
+        return ''.join(shiftList)
