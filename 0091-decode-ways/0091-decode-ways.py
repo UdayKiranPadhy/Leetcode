@@ -1,0 +1,19 @@
+class Solution:
+    def numDecodings(self, s: str) -> int:
+        return self._rec_helper(s)
+
+    @cache
+    def _rec_helper(self, data):
+        # Base Case 1: Empty string
+        if not data:
+            return 1
+
+        first_call, second_call = 0, 0
+
+        if 1 <= int(data[:1]) <= 9:
+            first_call = self._rec_helper(data[1:])
+
+        if 10 <= int(data[:2]) <= 26:
+            second_call = self._rec_helper(data[2:])
+
+        return first_call + second_call
