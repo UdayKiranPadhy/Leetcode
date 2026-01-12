@@ -1,10 +1,16 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        profit = 0
-        least_value = float('inf')
+        N = len(prices)
+        max_profit = 0
 
-        for i in range(len(prices)):
-            profit = max(profit, prices[i]- least_value)
-            least_value = min(least_value , prices[i])
+        def go(left, right):
+            nonlocal max_profit
+            if right >= N:
+                return
+            max_profit = max(max_profit, prices[right] - prices[left])
+            if prices[left] > prices[right]:
+                left = right
+            go(left,right+1)
         
-        return profit
+        go(0,1)
+        return max_profit
