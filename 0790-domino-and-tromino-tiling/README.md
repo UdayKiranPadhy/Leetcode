@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/domino-and-tromino-tiling/?envType=daily-question&envId=2025-05-05">790. Domino and Tromino Tiling</a></h2><h3>Medium</h3><hr><p>You have two types of tiles: a <code>2 x 1</code> domino shape and a tromino shape. You may rotate these shapes.</p>
+<h2><a href="https://leetcode.com/problems/domino-and-tromino-tiling/">790. Domino and Tromino Tiling</a></h2><h3>Medium</h3><hr><p>You have two types of tiles: a <code>2 x 1</code> domino shape and a tromino shape. You may rotate these shapes.</p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/07/15/lc-domino.jpg" style="width: 362px; height: 195px;" />
 <p>Given an integer n, return <em>the number of ways to tile an</em> <code>2 x n</code> <em>board</em>. Since the answer may be very large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
 
@@ -10,7 +10,7 @@
 <pre>
 <strong>Input:</strong> n = 3
 <strong>Output:</strong> 5
-<strong>Explanation:</strong> The five different ways are show above.
+<strong>Explanation:</strong> The five different ways are shown above.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
