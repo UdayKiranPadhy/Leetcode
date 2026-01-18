@@ -1,22 +1,16 @@
 class Solution:
-    def minHeightShelves(self, books: List[List[int]], shelf: int) -> int:
+    def minHeightShelves(self, books: List[List[int]], shelfWidth: int) -> int:
         N = len(books)
 
         @cache
-        def go(index, prev, height):
+        def go(index, width_remaining,curr_height):
             if index == N:
                 return 0
-
             op1 = float('inf')
-
-            if prev + books[index][0] <= shelf:
-                diff = books[index][1] - height
-                if diff >= 0:
-                    op1 = diff + go(index + 1, prev + books[index][0], books[index][1])
-                else:
-                    op1 = go(index + 1, prev + books[index][0], height)
-            op2 = books[index][1] + go(index + 1, books[index][0], books[index][1])
-
-            return min(op1, op2)
-
-        return go(0, 0, 0)
+            thickness , height = books[index]
+            if width_remaining and thickness <= width_remaining:
+                op1 = max(0,height - curr_height) + go(index+1,width_remaining - thickness, curr_height + max(0,height - curr_height))
+            op2 = height + go(index+1, shelfWidth - thickness, height)
+            return min(op1,op2)
+        
+        return go(0,shelfWidth, 0)
