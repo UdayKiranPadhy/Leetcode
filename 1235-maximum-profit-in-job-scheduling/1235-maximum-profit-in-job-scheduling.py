@@ -1,11 +1,35 @@
 class Solution:
-    def jobScheduling(self, s, e, p):
+    def jobScheduling(self, startTime: List[int], endTime: List[int], profit: List[int]) -> int:
+        jobs = sorted(zip(startTime, endTime, profit))
 
-        jobs, n = sorted(zip(s, e, p)), len(s)                     # [1] prepare jobs for binary search
-        dp = [0] * (n + 1)                                         #     by sorting them by start time
-        
-        for i in reversed(range(n)):                               # [2] knapsack: either try next job or
-            k = bisect_left(jobs, jobs[i][1], key=lambda j: j[0])  #     take this one together with trying
-            dp[i] = max(jobs[i][2] + dp[k], dp[i+1])               #     the next valid one
+        cache = {}
+
+        def dfs(i):
+            if i == len(startTime):
+                return 0
+
+            if i in cache:
+                return cache[i]
+
+            # not including
+            res = dfs(i + 1)
+
+            # including
+
+            # finding the next interval in O(n) in this approach
+            # j = i + 1
+            # while j < len(startTime):
+            #     if jobs[j][0] >= jobs[i][1]:
+            #         break
+            #     j += 1
             
-        return dp[0]
+
+            # using binary search to find the next j using bisect module 
+            # startTime should be >= jobs[i][1]
+            j = bisect.bisect(jobs, (jobs[i][1], -1, -1))
+
+            cache[i] = res = max(res, dfs(j) + jobs[i][2])
+            return res
+        
+        return dfs(0)
+         
