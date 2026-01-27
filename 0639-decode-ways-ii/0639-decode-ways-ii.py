@@ -1,5 +1,13 @@
 class Solution: 
     def numDecodings(self, s):
+        """
+        if i < 0, we return 1, there is only one way to decode empty string.
+if s[i] == *, then there is 9*dp(i-1) ways to decode if we take last number 1-digit. To decode last number 2-digit we need to consider several cases. If we have 1*, then we have 9 ways to replace * with [1, 2, ..., 9]. If we have 2*, then we have 6 ways to replace it with [1, 2, ..., 6]. Finally, if we have **, then we have 15 options: [11, ...., 19, 21, ..., 26].
+if s[i] != *, that it it is digit, we have dp(i-1) ways to decode if we have last digit not equal to 0 and 0 ways if it is zero. For last 2 digits we need again consider cases: if previous element is digit, then only case [10, ..., 26] will be good for as, so we add dp(i-2). If we have *., then if . = 0, 1, 2, 3, 4, 5, 6, then we have 2 options for *: 1 and 2, in other case we have only one option.
+Complexity
+It is O(n) for time and space.
+
+        """
         M = 10**9 + 7 
         
         @lru_cache(None)
