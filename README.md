@@ -6,6 +6,7 @@ Leetcode Problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Greedy
@@ -30,4 +31,16 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
