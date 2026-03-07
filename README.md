@@ -6,6 +6,7 @@ Leetcode Problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0213-house-robber-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
@@ -44,6 +45,7 @@ Leetcode Problems
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0213-house-robber-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1416-restore-the-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1416-restore-the-array/) | Hard |
