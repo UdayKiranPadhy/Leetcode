@@ -7,6 +7,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0213-house-robber-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0518-coin-change-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
@@ -24,6 +25,7 @@ Leetcode Problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [1416-restore-the-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1416-restore-the-array/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -46,6 +48,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0213-house-robber-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0518-coin-change-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1416-restore-the-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1416-restore-the-array/) | Hard |
