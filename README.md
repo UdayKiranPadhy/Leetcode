@@ -88,6 +88,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0638-shopping-offers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0638-shopping-offers/) | Medium |
+| [1009-complement-of-base-10-integer](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
