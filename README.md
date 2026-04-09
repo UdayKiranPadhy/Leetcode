@@ -33,6 +33,7 @@ Leetcode Problems
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,4 +223,5 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 <!---LeetCode Topics End-->
