@@ -40,6 +40,7 @@ Leetcode Problems
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Leetcode Problems
 | [1622-fancy-sequence](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +156,7 @@ Leetcode Problems
 | [3548-equal-sum-grid-partition-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
