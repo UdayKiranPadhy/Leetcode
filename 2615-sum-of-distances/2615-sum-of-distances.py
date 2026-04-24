@@ -1,15 +1,26 @@
 class Solution:
-    def distance(self, nums: list[int]) -> list[int]:
+    def distance(self, nums: List[int]) -> List[int]:
         n = len(nums)
-        groups = defaultdict(list)
+        ans = [0] * n
+
+        mp = defaultdict(list)
+
         for i, v in enumerate(nums):
-            groups[v].append(i)
-        res = [0] * n
-        for group in groups.values():
-            total = sum(group)
-            prefix_total = 0
-            sz = len(group)
-            for i, idx in enumerate(group):
-                res[idx] = total - prefix_total * 2 + idx * (2 * i - sz)
-                prefix_total += idx
-        return res
+            mp[v].append(i)
+
+        for pos in mp.values():
+            total = sum(pos)
+            left_sum = 0
+            m = len(pos)
+
+            for i in range(m):
+                right_sum = total - left_sum - pos[i]
+
+                left = pos[i] * i - left_sum
+                right = right_sum - pos[i] * (m - i - 1)
+
+                ans[pos[i]] = left + right
+
+                left_sum += pos[i]
+
+        return ans
