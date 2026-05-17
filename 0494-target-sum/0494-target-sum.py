@@ -1,15 +1,15 @@
 class Solution:
-    def findTargetSumWays(self, nums: List[int], target: int) -> int:
-        @cache
-        def try_all_combinations(i, sum):
-            if i == len(nums):
-                return sum == target
-            return try_all_combinations(
-                        i + 1,
-                        sum + nums[i]
-                    ) + try_all_combinations(
-                        i + 1,
-                        sum - nums[i]
-                    )
+    def findTargetSumWays(self, nums: list[int], target: int) -> int:
+        N = len(nums)
 
-        return try_all_combinations(0, 0)
+        @lru_cache(None)
+        def go(index, target):
+            if index == N and target == 0:
+                return 1
+            elif index == N and target != 0:
+                return 0
+            op1 = nums[index] + go(index + 1, target - nums[index])
+            op2 = -nums[index] + go(index + 1, target + nums[index])
+            return (op1+op2)
+
+        return go(0, target)
