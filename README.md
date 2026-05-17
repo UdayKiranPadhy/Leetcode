@@ -24,6 +24,7 @@ Leetcode Problems
 | [1559-detect-cycles-in-2d-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1626-best-team-with-no-conflicts](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -171,6 +172,7 @@ Leetcode Problems
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
 | [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1626-best-team-with-no-conflicts](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -280,6 +282,7 @@ Leetcode Problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1626-best-team-with-no-conflicts](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
