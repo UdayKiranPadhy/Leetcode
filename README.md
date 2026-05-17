@@ -17,6 +17,7 @@ Leetcode Problems
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0879-profitable-schemes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
+| [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1306-jump-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -168,6 +169,7 @@ Leetcode Problems
 | [0788-rotated-digits](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0879-profitable-schemes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
+| [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1416-restore-the-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1416-restore-the-array/) | Hard |
