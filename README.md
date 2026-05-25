@@ -126,6 +126,7 @@ Leetcode Problems
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1871-jump-game-vii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -192,6 +193,7 @@ Leetcode Problems
 | [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
+| [1871-jump-game-vii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -210,6 +212,7 @@ Leetcode Problems
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1871-jump-game-vii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -253,6 +256,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2615-sum-of-distances](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
