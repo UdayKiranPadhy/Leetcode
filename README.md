@@ -37,6 +37,7 @@ Leetcode Problems
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -294,6 +295,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2615-sum-of-distances](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
