@@ -21,6 +21,7 @@ Leetcode Problems
 | [0879-profitable-schemes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
 | [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1306-jump-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
@@ -280,6 +281,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -398,6 +400,7 @@ Leetcode Problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1402-reducing-dishes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1626-best-team-with-no-conflicts](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
