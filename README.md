@@ -102,6 +102,7 @@ Leetcode Problems
 | [3742-maximum-path-score-in-a-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +196,7 @@ Leetcode Problems
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +223,7 @@ Leetcode Problems
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,6 +426,7 @@ Leetcode Problems
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,6 +439,7 @@ Leetcode Problems
 | [2540-minimum-common-value](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -509,6 +514,7 @@ Leetcode Problems
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
