@@ -18,6 +18,7 @@ Leetcode Problems
 | [0518-coin-change-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
+| [0813-largest-sum-of-averages](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0879-profitable-schemes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
 | [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
@@ -246,6 +247,7 @@ Leetcode Problems
 | [0688-knight-probability-in-chessboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0788-rotated-digits](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
+| [0813-largest-sum-of-averages](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0879-profitable-schemes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
 | [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -337,6 +339,7 @@ Leetcode Problems
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0813-largest-sum-of-averages](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
