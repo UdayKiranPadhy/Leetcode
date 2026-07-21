@@ -23,6 +23,7 @@ Leetcode Problems
 | [0879-profitable-schemes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
+| [1024-video-stitching](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1260-shift-2d-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -110,6 +111,7 @@ Leetcode Problems
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1024-video-stitching](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1402-reducing-dishes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
@@ -254,6 +256,7 @@ Leetcode Problems
 | [0879-profitable-schemes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
+| [1024-video-stitching](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
