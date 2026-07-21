@@ -24,6 +24,7 @@ Leetcode Problems
 | [0931-minimum-falling-path-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1024-video-stitching](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1024-video-stitching/) | Medium |
+| [1027-longest-arithmetic-subsequence](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1260-shift-2d-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -257,6 +258,7 @@ Leetcode Problems
 | [0931-minimum-falling-path-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1024-video-stitching](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1024-video-stitching/) | Medium |
+| [1027-longest-arithmetic-subsequence](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
@@ -305,6 +307,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1027-longest-arithmetic-subsequence](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
@@ -368,6 +371,7 @@ Leetcode Problems
 | [0033-search-in-rotated-sorted-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [1027-longest-arithmetic-subsequence](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
