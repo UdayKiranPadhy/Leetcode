@@ -1,23 +1,21 @@
+from functools import cache
+from typing import List
+
 class Solution:
     def videoStitching(self, clips: List[List[int]], time: int) -> int:
-        clips.sort()
-        N = len(clips)
 
         @cache
-        def go(index,covered):
+        def go(covered):
             if covered >= time:
                 return 0
-            if index == N:
-                return float('inf')
-            
+
             ans = float('inf')
-            for j in range(index,N):
-                start , end = clips[j]
-                if end > covered and start <= covered:
-                    ans = min(ans , 1 + go(j+1,end))
+
+            for start, end in clips:
+                if start <= covered < end:
+                    ans = min(ans, 1 + go(end))
+
             return ans
-        
-        gg = go(0,0)
-        if gg == float('inf'):
-            return -1
-        return gg
+
+        ans = go(0)
+        return -1 if ans == float('inf') else ans
