@@ -21,6 +21,7 @@ Leetcode Problems
 | [0813-largest-sum-of-averages](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0879-profitable-schemes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
+| [0931-minimum-falling-path-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1260-shift-2d-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
@@ -130,6 +131,7 @@ Leetcode Problems
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0931-minimum-falling-path-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1260-shift-2d-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -250,6 +252,7 @@ Leetcode Problems
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0813-largest-sum-of-averages](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0879-profitable-schemes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
+| [0931-minimum-falling-path-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
