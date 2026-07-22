@@ -89,6 +89,7 @@ Leetcode Problems
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -189,6 +190,7 @@ Leetcode Problems
 | [3121-count-the-number-of-special-characters-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
@@ -381,6 +383,7 @@ Leetcode Problems
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -426,6 +429,7 @@ Leetcode Problems
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [3161-block-placement-queries](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
