@@ -14,6 +14,7 @@ Leetcode Problems
 | [0213-house-robber-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0396-rotate-function](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0403-frog-jump](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -248,6 +249,7 @@ Leetcode Problems
 | [0213-house-robber-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0396-rotate-function](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0403-frog-jump](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
