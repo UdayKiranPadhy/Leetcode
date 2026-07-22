@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/freedom-trail/?envType=daily-question&envId=2024-04-27">514. Freedom Trail</a></h2><h3>Hard</h3><hr><p>In the video game Fallout 4, the quest <strong>&quot;Road to Freedom&quot;</strong> requires players to reach a metal dial called the <strong>&quot;Freedom Trail Ring&quot;</strong> and use the dial to spell a specific keyword to open the door.</p>
+<h2><a href="https://leetcode.com/problems/freedom-trail/">514. Freedom Trail</a></h2><h3>Hard</h3><hr><p>In the video game Fallout 4, the quest <strong>&quot;Road to Freedom&quot;</strong> requires players to reach a metal dial called the <strong>&quot;Freedom Trail Ring&quot;</strong> and use the dial to spell a specific keyword to open the door.</p>
 
 <p>Given a string <code>ring</code> that represents the code engraved on the outer ring and another string <code>key</code> that represents the keyword that needs to be spelled, return <em>the minimum number of steps to spell all the characters in the keyword</em>.</p>
 
