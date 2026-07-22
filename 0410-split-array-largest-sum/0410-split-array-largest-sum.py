@@ -1,30 +1,36 @@
+from functools import cache
+
 class Solution:
     def splitArray(self, nums: List[int], k: int) -> int:
         N = len(nums)
 
-        # 15
-        # [1,2,3,4,5,6,7,8,9,10] 5
-        def good(cap):
-            day = 0
-            index = 0
-            total = 0
-            while day < k and index < N:
-                if total + nums[index] <= cap:
-                    total += nums[index]
-                    index += 1
-                else:
-                    day += 1
-                    total = 0
-            if index == N:
-                return True
-            return False
+        # Prefix sums for O(1) range sum queries
+        prefix = [0] * (N + 1)
+        for i in range(N):
+            prefix[i + 1] = prefix[i] + nums[i]
 
-        low = min(nums)
-        high = sum(nums)
-        while low < high:
-            mid = (low + high) // 2
-            if good(mid):
-                high = mid
-            else:
-                low = mid + 1
-        return low
+        @cache
+        def go(index, moves):
+            remaining = N - index
+
+            # Impossible: not enough elements to form 'moves' non-empty partitions
+            if remaining < moves:
+                return float("inf")
+
+            # Last partition must take everything
+            if moves == 1:
+                return prefix[N] - prefix[index]
+
+            total = 0
+            ans = float("inf")
+
+            # Leave at least (moves-1) elements for the remaining partitions
+            for j in range(index, N - moves + 1):
+                total += nums[j]
+
+                candidate = max(total, go(j + 1, moves - 1))
+                ans = min(ans, candidate)
+
+            return ans
+
+        return go(0, k)
