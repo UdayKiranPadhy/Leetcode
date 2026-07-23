@@ -1,28 +1,33 @@
+from functools import cache
+
 class Solution:
     def minimumDistance(self, word: str) -> int:
-        n = len(word)
-        BIG = 2**30
-        dp = [[[BIG] * 26 for x in range(26)] for y in range(n)]
-        for i in range(26):
-            dp[0][i][ord(word[0]) - 65] = 0
-            dp[0][ord(word[0]) - 65][i] = 0
 
-        def getDistance(p, q):
-            x1, y1 = p // 6, p % 6
-            x2, y2 = q // 6, q % 6
-            return abs(x1 - x2) + abs(y1 - y2)
+        def dist(a, b):
+            if a == -1 or b == -1:
+                return 0
 
-        for i in range(1, n):
-            cur, prev = ord(word[i]) - 65, ord(word[i - 1]) - 65
-            d = getDistance(prev, cur)
-            for j in range(26):
-                dp[i][cur][j] = min(dp[i][cur][j], dp[i - 1][prev][j] + d)
-                dp[i][j][cur] = min(dp[i][j][cur], dp[i - 1][j][prev] + d)
-                if prev == j:
-                    for k in range(26):
-                        d0 = getDistance(k, cur)
-                        dp[i][cur][j] = min(dp[i][cur][j], dp[i - 1][k][j] + d0)
-                        dp[i][j][cur] = min(dp[i][j][cur], dp[i - 1][j][k] + d0)
+            ax, ay = divmod(a, 6)
+            bx, by = divmod(b, 6)
 
-        ans = min(min(dp[n - 1][x]) for x in range(26))
-        return ans
+            return abs(ax - bx) + abs(ay - by)
+
+        nums = [ord(c) - ord('A') for c in word]
+        n = len(nums)
+
+        @cache
+        def go(index, left, right):
+            if index == n:
+                return 0
+
+            ch = nums[index]
+
+            # Use left finger
+            use_left = dist(left, ch) + go(index + 1, ch, right)
+
+            # Use right finger
+            use_right = dist(right, ch) + go(index + 1, left, ch)
+
+            return min(use_left, use_right)
+
+        return go(0, -1, -1)
