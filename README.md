@@ -32,6 +32,7 @@ Leetcode Problems
 | [1260-shift-2d-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
@@ -276,6 +277,7 @@ Leetcode Problems
 | [1024-video-stitching](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1402-reducing-dishes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
