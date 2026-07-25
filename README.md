@@ -18,6 +18,7 @@ Leetcode Problems
 | [0410-split-array-largest-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0638-shopping-offers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0638-shopping-offers/) | Medium |
@@ -208,6 +209,7 @@ Leetcode Problems
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -230,6 +232,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0396-rotate-function](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0788-rotated-digits](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -269,6 +272,7 @@ Leetcode Problems
 | [0410-split-array-largest-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0514-freedom-trail](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [0518-coin-change-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -320,6 +324,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
+| [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 ## Sliding Window
