@@ -39,6 +39,7 @@ Leetcode Problems
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1402-reducing-dishes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -147,6 +148,7 @@ Leetcode Problems
 | [0931-minimum-falling-path-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1260-shift-2d-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -288,6 +290,7 @@ Leetcode Problems
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [1416-restore-the-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1416-restore-the-array/) | Hard |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
 | [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -367,6 +370,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0638-shopping-offers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0638-shopping-offers/) | Medium |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,6 +381,7 @@ Leetcode Problems
 | [0410-split-array-largest-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0813-largest-sum-of-averages](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
