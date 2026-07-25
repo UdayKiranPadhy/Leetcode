@@ -1,6 +1,7 @@
 class Solution:
     def numberOfArithmeticSlices(self, nums: List[int]) -> int:
         
+        @cache
         def go(index):
             if index < 2:
                 return 0
