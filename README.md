@@ -26,6 +26,7 @@ Leetcode Problems
 | [0813-largest-sum-of-averages](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0877-stone-game](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
@@ -236,6 +237,7 @@ Leetcode Problems
 | [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0788-rotated-digits](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
@@ -286,6 +288,7 @@ Leetcode Problems
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0813-largest-sum-of-averages](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [0877-stone-game](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
@@ -327,6 +330,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 ## Sliding Window
