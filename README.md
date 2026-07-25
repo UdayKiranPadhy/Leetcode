@@ -227,6 +227,7 @@ Leetcode Problems
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0396-rotate-function](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0788-rotated-digits](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0788-rotated-digits/) | Medium |
@@ -260,6 +261,7 @@ Leetcode Problems
 | [0120-triangle](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0213-house-robber-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0396-rotate-function](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0403-frog-jump/) | Hard |
@@ -315,6 +317,7 @@ Leetcode Problems
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 ## Sliding Window
