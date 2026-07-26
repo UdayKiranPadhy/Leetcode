@@ -21,6 +21,7 @@ Leetcode Problems
 | [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0638-shopping-offers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0813-largest-sum-of-averages](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
@@ -235,6 +236,7 @@ Leetcode Problems
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0396-rotate-function](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0650-2-keys-keyboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0788-rotated-digits](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -483,6 +485,7 @@ Leetcode Problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1402-reducing-dishes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
