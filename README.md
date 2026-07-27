@@ -45,6 +45,7 @@ Leetcode Problems
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1449-form-largest-integer-with-digits-that-add-up-to-target/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -463,6 +464,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0871-minimum-number-of-refueling-stops](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -489,6 +491,7 @@ Leetcode Problems
 | [1331-rank-transform-of-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1402-reducing-dishes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
