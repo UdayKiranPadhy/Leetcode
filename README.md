@@ -33,6 +33,7 @@ Leetcode Problems
 | [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1024-video-stitching](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -252,6 +253,7 @@ Leetcode Problems
 | [0650-2-keys-keyboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0788-rotated-digits](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
@@ -312,6 +314,7 @@ Leetcode Problems
 | [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
 | [1024-video-stitching](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
@@ -350,6 +353,7 @@ Leetcode Problems
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 ## Sliding Window
@@ -420,6 +424,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0813-largest-sum-of-averages](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
+| [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -675,4 +680,12 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
