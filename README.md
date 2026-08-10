@@ -684,8 +684,18 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
