@@ -103,6 +103,7 @@ Leetcode Problems
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -406,6 +407,7 @@ Leetcode Problems
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
