@@ -40,6 +40,7 @@ Leetcode Problems
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1402-reducing-dishes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
@@ -138,6 +139,7 @@ Leetcode Problems
 | [0871-minimum-number-of-refueling-stops](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1024-video-stitching](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1402-reducing-dishes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -391,6 +393,7 @@ Leetcode Problems
 | [1189-maximum-number-of-balloons](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -423,6 +426,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0638-shopping-offers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
