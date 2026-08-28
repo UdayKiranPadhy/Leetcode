@@ -240,6 +240,7 @@ Leetcode Problems
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
@@ -600,6 +601,7 @@ Leetcode Problems
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -611,6 +613,7 @@ Leetcode Problems
 | [3546-equal-sum-grid-partition-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
