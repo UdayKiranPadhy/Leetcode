@@ -1,19 +1,18 @@
 class Solution:
     def numDistinct(self, s: str, t: str) -> int:
-        N = len(s)
-        M = len(t)
-
-        @cache
-        def dp(i,j):
-            if j == 0:
-                return 1
-            if i == 0 and j != 0:
-                return 0
-            if s[i-1] == t[j-1]:
-                return dp(i-1,j-1) + dp(i-1,j)
-            return dp(i-1,j)
-
-        return dp(N,M)
-
-model = Solution()
-print(model.numDistinct("babgbag","bag"))
+        m, n = len(s), len(t)
+        if m < n:
+            return 0
+        
+        dp = [[0] * (n + 1) for _ in range(m + 1)]
+        for i in range(m + 1):
+            dp[i][n] = 1
+        
+        for i in range(m - 1, -1, -1):
+            for j in range(n - 1, -1, -1):
+                if s[i] == t[j]:
+                    dp[i][j] = dp[i + 1][j + 1] + dp[i + 1][j]
+                else:
+                    dp[i][j] = dp[i + 1][j]
+        
+        return dp[0][0]
