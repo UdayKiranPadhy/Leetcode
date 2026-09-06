@@ -210,6 +210,7 @@ Leetcode Problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0514-freedom-trail](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [0647-palindromic-substrings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -323,6 +324,7 @@ Leetcode Problems
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0213-house-robber-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
