@@ -154,6 +154,7 @@ Leetcode Problems
 | [1386-cinema-seat-allocation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1402-reducing-dishes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -223,6 +224,7 @@ Leetcode Problems
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1416-restore-the-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1416-restore-the-array/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -440,6 +442,7 @@ Leetcode Problems
 | [1345-jump-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -599,6 +602,7 @@ Leetcode Problems
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1402-reducing-dishes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1626-best-team-with-no-conflicts](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
