@@ -294,6 +294,7 @@ Leetcode Problems
 | [0877-stone-game](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -705,6 +706,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
