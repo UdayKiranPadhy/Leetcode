@@ -290,6 +290,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0396-rotate-function](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0464-can-i-win](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0650-2-keys-keyboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
@@ -351,6 +352,7 @@ Leetcode Problems
 | [0403-frog-jump](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
+| [0464-can-i-win](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0494-target-sum/) | Medium |
@@ -414,6 +416,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
+| [0464-can-i-win](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
@@ -484,6 +487,7 @@ Leetcode Problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0464-can-i-win](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0638-shopping-offers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -497,11 +501,13 @@ Leetcode Problems
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0464-can-i-win](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0638-shopping-offers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0464-can-i-win](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0638-shopping-offers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
