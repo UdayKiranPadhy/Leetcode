@@ -41,6 +41,7 @@ Leetcode Problems
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -189,6 +190,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1260-shift-2d-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -385,6 +387,7 @@ Leetcode Problems
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1402-reducing-dishes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -503,6 +506,7 @@ Leetcode Problems
 | [0691-stickers-to-spell-word](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -525,6 +529,7 @@ Leetcode Problems
 | [0638-shopping-offers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -841,4 +846,44 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Maximum Flow
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
+## Maximum Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
+## Edmonds–Karp Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
+## MPM Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
+## Push-Relabel Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
+## Minimum Cut
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
+## Matching (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
+## Flow Network
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
+## Dinic's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
 <!---LeetCode Topics End-->
