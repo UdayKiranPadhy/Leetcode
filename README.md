@@ -372,6 +372,7 @@ Leetcode Problems
 | [0788-rotated-digits](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0813-largest-sum-of-averages](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0877-stone-game](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0879-profitable-schemes/) | Hard |
@@ -500,6 +501,7 @@ Leetcode Problems
 | [0464-can-i-win](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0638-shopping-offers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -522,6 +524,7 @@ Leetcode Problems
 | [0464-can-i-win](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0638-shopping-offers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -587,6 +590,7 @@ Leetcode Problems
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -741,6 +745,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0514-freedom-trail](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0514-freedom-trail/) | Hard |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1306-jump-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
