@@ -373,6 +373,7 @@ Leetcode Problems
 | [0514-freedom-trail](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [0518-coin-change-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0576-out-of-boundary-paths/) | Medium |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [0638-shopping-offers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [0647-palindromic-substrings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
