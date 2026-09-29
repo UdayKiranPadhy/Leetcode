@@ -313,6 +313,7 @@ Leetcode Problems
 | [0836-rectangle-overlap](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [1012-numbers-with-repeated-digits](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -393,6 +394,7 @@ Leetcode Problems
 | [0931-minimum-falling-path-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0956-tallest-billboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0956-tallest-billboard/) | Hard |
+| [1012-numbers-with-repeated-digits](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1024-video-stitching](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
