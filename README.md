@@ -224,6 +224,7 @@ Leetcode Problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0514-freedom-trail](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0514-freedom-trail/) | Hard |
@@ -723,6 +724,7 @@ Leetcode Problems
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -915,6 +917,7 @@ Leetcode Problems
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
