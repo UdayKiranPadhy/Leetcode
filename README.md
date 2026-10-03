@@ -226,6 +226,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0514-freedom-trail](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0514-freedom-trail/) | Hard |
@@ -364,6 +365,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -728,6 +730,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -922,6 +925,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
