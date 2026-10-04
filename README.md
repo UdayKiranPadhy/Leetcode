@@ -157,6 +157,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1024-video-stitching](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -231,6 +232,7 @@ Leetcode Problems
 | [0474-ones-and-zeroes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0514-freedom-trail](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0514-freedom-trail/) | Hard |
 | [0647-palindromic-substrings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0796-rotate-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
@@ -387,6 +389,7 @@ Leetcode Problems
 | [0638-shopping-offers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0638-shopping-offers/) | Medium |
 | [0647-palindromic-substrings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0788-rotated-digits](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0788-rotated-digits/) | Medium |
@@ -731,6 +734,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -926,6 +930,7 @@ Leetcode Problems
 | [0020-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
