@@ -159,6 +159,7 @@ Leetcode Problems
 | [0410-split-array-largest-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1024-video-stitching](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -237,6 +238,7 @@ Leetcode Problems
 | [0796-rotate-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -737,6 +739,7 @@ Leetcode Problems
 | [0032-longest-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -934,6 +937,7 @@ Leetcode Problems
 | [0032-longest-valid-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
