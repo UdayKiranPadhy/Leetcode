@@ -141,6 +141,7 @@ Leetcode Problems
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3660-jump-game-ix/) | Medium |
@@ -573,6 +574,7 @@ Leetcode Problems
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
