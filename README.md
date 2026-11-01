@@ -17,6 +17,7 @@ Leetcode Problems
 | [0403-frog-jump](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0413-arithmetic-slices/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0494-target-sum/) | Medium |
@@ -346,6 +347,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0396-rotate-function](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0464-can-i-win](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0464-can-i-win/) | Medium |
 | [0486-predict-the-winner](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
