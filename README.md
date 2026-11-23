@@ -47,6 +47,7 @@ Leetcode Problems
 | [1340-jump-game-v](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1349-maximum-students-taking-exam](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1349-maximum-students-taking-exam/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
@@ -382,6 +383,7 @@ Leetcode Problems
 | [1012-numbers-with-repeated-digits](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
@@ -654,6 +656,7 @@ Leetcode Problems
 | [0410-split-array-largest-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0813-largest-sum-of-averages](https://github.com/UdayKiranPadhy/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [1140-stone-game-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1444-number-of-ways-of-cutting-a-pizza/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -754,6 +757,7 @@ Leetcode Problems
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1622-fancy-sequence](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Segment Tree
@@ -1093,4 +1097,8 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/UdayKiranPadhy/Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
