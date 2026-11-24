@@ -135,6 +135,7 @@ Leetcode Problems
 | [3331-find-subtree-sizes-after-changes](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -405,6 +406,7 @@ Leetcode Problems
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -549,6 +551,7 @@ Leetcode Problems
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -841,6 +844,7 @@ Leetcode Problems
 | [2778-sum-of-squares-of-special-elements](https://github.com/UdayKiranPadhy/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -952,6 +956,7 @@ Leetcode Problems
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UdayKiranPadhy/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
